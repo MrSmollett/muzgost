@@ -12,5 +12,32 @@ body {
 }
 img {
 				width: 900px;
-				height: 200px;
+				he
 }
+.block{ 
+				width: 50%; 
+				height: 50%; 
+				background: #000; 
+				margin: 0 auto; 
+				text-align: center; 
+				padding: 1em; 
+} 
+.block a{ 
+				color: #00f; 
+				width: 10%; 
+				background: #ccc; 
+				text-decoration: none; 
+				padding: 0.2em 0.5em; 
+} 
+.block a:hover{ 
+				color: #fff;
+}
+h1 {
+				text-align: center;
+}
+
+.photos img {
+				width: auto;
+				height: 25%;
+}
+ 
