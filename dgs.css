@@ -1,18 +1,12 @@
 body {
 				background-color:black ;
-}
-body {
 				color:white ;
+				text-align:center; 
 }
-#header{
-  width: 900px;
-  height: 200px;
-  background-color: #25B33f;
-  margin-bottom: 10px;
-}
+
 img {
-				width: 900px;
-				he
+				width: auto;
+				height: auto;
 }
 .block{ 
 				width: 50%; 
@@ -38,6 +32,9 @@ h1 {
 
 .photos img {
 				width: auto;
-				height: 25%;
+				height: auto;
 }
- 
+ p1 {
+	 			color: #00f;
+				font-size:30px;
+ }
