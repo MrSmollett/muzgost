@@ -1,14 +1,15 @@
-body {
+ body {
 				background-color:black ;
 				color:white ;
-				text-align:center; 
+				text-align: center;
 }
 
-img {
+ img {
 				width: auto;
 				height: auto;
 }
-.block{ 
+
+.block { 
 				width: 50%; 
 				height: 50%; 
 				background: #000; 
@@ -16,17 +17,20 @@ img {
 				text-align: center; 
 				padding: 1em; 
 } 
-.block a{ 
+
+.block a { 
 				color: #00f; 
 				width: 10%; 
 				background: #ccc; 
 				text-decoration: none; 
 				padding: 0.2em 0.5em; 
-} 
-.block a:hover{ 
+}
+
+.block a:hover { 
 				color: #fff;
 }
-h1 {
+
+ h1 {
 				text-align: center;
 }
 
@@ -34,7 +38,18 @@ h1 {
 				width: auto;
 				height: auto;
 }
+
  p1 {
 	 			color: #00f;
 				font-size:30px;
- }
+}
+
+.text {
+			text-align: left;
+			top: 1000px;
+}
+
+.chislo {
+			text-align: left;
+			color: red;
+}

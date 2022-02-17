@@ -1,18 +1,16 @@
-body {
-				background-color: black;
-				color: white;
-}
-body {
-	background-color:black ;
-	color:white ;
-	text-align:center; 
+ body {
+	color: white;
+  background-color:black ;
+  color:white ;
+  text-align:center; 
 }
 
-img {
+ img {
 	width: auto;
 	height: auto;
 }
-.bl{ 
+
+.bl { 
 	width: 50%; 
 	height: 50%; 
 	background: #000; 
@@ -20,16 +18,19 @@ img {
 	text-align: center; 
 	padding: 1em; 
 } 
-.bl a{ 
+
+.bl a { 
 	color: #00f; 
 	width: 10%; 
 	background: #ccc; 
 	text-decoration: none; 
 	padding: 0.2em 0.5em; 
 } 
-.bl a:hover{ 
+
+.bl a:hover { 
 	color: #fff;
 }
+
 h1 {
 	text-align: center;
 }
@@ -38,7 +39,8 @@ h1 {
 	width: auto;
 	height: auto;
 }
-p1 {
-	 color: #00f;
-	font-size:30px;
+
+ p1 {
+	color: #00f;
+  font-size:30px;
 }
