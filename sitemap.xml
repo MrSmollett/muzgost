@@ -1,28 +1,43 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-	<loc>https://muzgost.tk/</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+-<url>
+<loc>https://muzgost.tk/</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>1.00</priority>
 </url>
-<url>
-	<loc>https://muzgost.tk/history.html</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+-<url>
+<loc>https://muzgost.tk/Html/history.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-<url>
-	<loc>https://muzgost.tk/Opisanie.html</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+-<url>
+<loc>https://muzgost.tk/Html/Opisanie.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-<url>
-	<loc>https://muzgost.tk/Sostav.html</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+-<url>
+<loc>https://muzgost.tk/Html/Sostav.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-<url>
-	<loc>https://muzgost.tk/vir.html</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+-<url>
+<loc>https://muzgost.tk/Html/vir.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-<url>
-	<loc>https://muzgost.tk/index.html</loc>
-	<lastmod>2022-03-11T20:51:23+01:00</lastmod>
+-<url>
+<loc>https://muzgost.tk/Html/index.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+-<url>
+<loc>https://muzgost.tk/Html/Error.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+-<url>
+<loc>https://muzgost.tk/index.html</loc>
+<lastmod>2022-03-22T20:26:26+00:00</lastmod>
+<priority>0.41</priority>
 </url>
 </urlset>
