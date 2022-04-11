@@ -30,15 +30,27 @@
 				color: #fff;
 }
 
- h1 {
-				text-align: center;
-				color: gold;
-				font-size: x-large;
+.block { 
+	width: 50%; 
+	height: 50%; 
+	background: #000; 
+	margin: 0 auto; 
+	text-align: center; 
+	padding: 1em; 
+} 
+
+.block a { 
+	color: #00f; 
+	width: 10%; 
+	background: #ccc; 
+	text-decoration: none; 
+	padding: 0.2em 0.5em; 
 }
 
-.photos img {
-				width: auto;
-				height: auto;
+.block a:hover { 
+	color: #fff;
+	width: auto;
+	height: auto;
 }
 
  p1 {
