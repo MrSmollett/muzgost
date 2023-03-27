@@ -9,7 +9,7 @@ img {
     height: auto;
 }
 
-.news_panel { 
+.nav_panel { 
     width: 50%; 
     height: 50%; 
     background: #000; 
@@ -18,7 +18,7 @@ img {
     padding: 1em; 
 } 
 
-.news_panel a { 
+.nav_panel a { 
     color: #00f; 
     width: 10%; 
     background: #ccc; 
@@ -26,11 +26,11 @@ img {
     padding: 0.2em 0.5em; 
 }
 
-.news_panel a:hover { 
+.nav_panel a:hover { 
     color: #fff;
 }
 
-.news_panel { 
+.nav_panel { 
 width: 50%; 
 height: 50%; 
 background: #000; 
@@ -39,7 +39,7 @@ text-align: center;
 padding: 1em; 
 } 
 
-.news_panel a { 
+.nav_panel a { 
 color: #00f; 
 width: 10%; 
 background: #ccc; 
@@ -47,7 +47,7 @@ text-decoration: none;
 padding: 0.2em 0.5em; 
 }
 
-.news_panel a:hover { 
+.nav_panel a:hover { 
 color: #fff;
 width: auto;
 height: auto;

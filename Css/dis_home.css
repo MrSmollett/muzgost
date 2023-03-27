@@ -55,21 +55,12 @@
 
  p1 {
 	 			color: #00f;
-				font-size:30px;
+				font-size:20px;
 }
 
-.text {
-			text-align: left;
-			top: 1000px;
-}
-
-.chislo {
-			text-align: left;
-			color: red;
-}
 .text {
 	text-align: center;
-	color: blueviolet;
+	color: green;
 }
 p2 {
 	color: gold;
